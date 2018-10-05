@@ -1,0 +1,13 @@
+<html>
+<body>
+  <form action="/messages" method="post">
+    <input type="text" name="message" />
+    <button type="submit">Poster</button>
+  </form>
+  <ul>
+    <% @messages.each do |message| %>
+    <li><%= message %></li>
+    <% end %>
+  </ul>
+</body>
+</html>
