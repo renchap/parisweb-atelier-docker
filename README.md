@@ -1,6 +1,8 @@
+
 # Atelier Docker Paris Web 2018
 
-Pour les utilisateurs Windows : [télécharger Putty](https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe)
+Les slides : https://speakerdeck.com/renchap/atelier-paris-web-introduction-a-docker
+Vidéo : https://www.youtube.com/watch?v=u4CKPb9KJ8M
 
 
 ## Mes conférences sur le sujet
