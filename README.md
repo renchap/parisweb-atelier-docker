@@ -2,6 +2,7 @@
 # Atelier Docker Paris Web 2018
 
 Les slides : https://speakerdeck.com/renchap/atelier-paris-web-introduction-a-docker
+
 Vidéo : https://www.youtube.com/watch?v=u4CKPb9KJ8M
 
 
